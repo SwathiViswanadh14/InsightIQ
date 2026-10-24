@@ -9,6 +9,10 @@ InsightIQ is a web-based business analytics dashboard built with Python and Fast
 - Visualize data using charts
 - Generate automated business insights
 - Download reports in Excel and PDF formats
+- ## Dashboard Preview
+
+![InsightIQ Dashboard](dashboard.png)
+
 
 ## Tech Stack
 
